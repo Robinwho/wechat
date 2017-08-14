@@ -4,7 +4,7 @@
 #### 新手入门
 [新手入门：微信小程序--从入门到精通图文宝典（每日更新中...）](http://bbs.html51.com/t-89-1-1/)
 
-[微信公众平台：小程序官方网站介绍]（https://mp.weixin.qq.com/debug/wxadoc/introduction/#产品定位及功能介绍）
+[微信公众平台：小程序官方网站介绍](https://mp.weixin.qq.com/debug/wxadoc/introduction/#产品定位及功能介绍)
 
 [腾讯官方：基于腾讯云 CentOS 搭建微信小程序服务](https://www.qcloud.com/developer/labs/lab/10004)
 
@@ -26,7 +26,7 @@
 ## DEMO
 [We重邮 - 微信小程序](https://github.com/mcc108/wecqupt)
 
-[【精】微信小程序-NAMI DEMO-赞赏(支付,登录)](https://github.com/wodenwang/nami-demo-pay)
+[【精】微信小程序-NAMI DEMO-赞赏(支付,登录)](https://github.com/wodenwang/nami-demo-pay) [详细教程：微信小程序《NAMI-赞赏》案例实战](https://zhuanlan.zhihu.com/p/25372448)
 
 [微信小程序-小商城前台](https://github.com/skyvow/m-mall) [微信小程序-小商城后台](https://github.com/skyvow/m-mall-admin)
 
