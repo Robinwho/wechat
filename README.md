@@ -36,6 +36,8 @@
 ## 微信支付系列
 1 [【精】微信小程序：支付系列合集（开发指南+精品Demo）](http://www.wxapp-union.com/portal.php?mod=view&aid=2572)
 
+2 [小程序调用微信支付：微信支付商户平台开通权限](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2Findex.php)
+
 ## 附录：基础知识
 微信开放平台、公众平台、公众号、服务号、订阅号等
 
