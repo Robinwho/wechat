@@ -21,6 +21,12 @@
 
 [微信小程序云端解决方案探索之路](https://github.com/tencentyun/blog/issues/1)
 
+[Wafer - 快速构建具备弹性能力的微信小程序](https://github.com/tencentyun/wafer)
+
+[Wafer - 快速构建具备弹性能力的微信小程序 client sdk](https://github.com/tencentyun/wafer-client-sdk)
+
+[Wafer - 企业级微信小程序全栈方案 wafer-client-demo](https://github.com/tencentyun/wafer-client-demo)
+
 ## 项目实战
 [【精】WePY 在手机充值小程序中的应用与实践](https://www.qcloud.com/community/article/506724)
 
@@ -32,6 +38,8 @@
 [微信小程序-小商城前台](https://github.com/skyvow/m-mall) [微信小程序-小商城后台](https://github.com/skyvow/m-mall-admin)
 
 [ofo小程序-扫码/个人中心/钱包充值等](http://www.jianshu.com/p/68e3b8927a77)
+
+[微信小程序 - 深大的树洞 2.0](https://github.com/jas0ncn/szushudong)
 
 ## 微信支付系列
 1 [【精】微信小程序：支付系列合集（开发指南+精品Demo）](http://www.wxapp-union.com/portal.php?mod=view&aid=2572)
