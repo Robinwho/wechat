@@ -17,6 +17,8 @@
 ## 开发框架
 [WePY 一个支持组件化的小程序开发框架](https://github.com/wepyjs/wepy)
 
+[WePY 腾讯云：打造小程序组件化开发框架](https://www.qcloud.com/community/article/214513)
+
 [微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)
 
 [微信小程序云端解决方案探索之路](https://github.com/tencentyun/blog/issues/1)
@@ -46,10 +48,16 @@
 
 2 [小程序调用微信支付：微信支付商户平台开通权限](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2Findex.php)
 
+3 [微信小程序：支付系列专辑（开发指南+精品Demo）](http://www.jianshu.com/p/2b63c81ec7f5)
+
 ## 附录：基础知识
 微信开放平台、公众平台、公众号、服务号、订阅号等
+[微信支付-商户平台官网](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2Findex.php)
 
 #### 开发/生产环境
 0 本地开发：可使用Win/Linux/Mac任一环境，由于小程序demo中大量使用js（npm），推荐在Win中配置[VM虚拟机](http://partnerweb.vmware.com/GOSIG/home.html)，以便支持Linux或Mac等多环境下进行开发。
+
+#### 错误调试
+[request:fail错误（含https解决方案）（真机预览问题)](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=648)
 
 TODO
