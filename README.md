@@ -33,11 +33,15 @@
 [【精】WePY 在手机充值小程序中的应用与实践](https://www.qcloud.com/community/article/506724)
 
 ## DEMO
+[837stars:微信小程序-小商城前台](https://github.com/skyvow/m-mall) [422stars:微信小程序-小商城后台](https://github.com/skyvow/m-mall-admin)
+
+[1378stars:微信小程序-移动端商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
+[微信小程序仿阿姨帮](https://github.com/Sukura7/WeChat_ayibang)
+[微信小程序实验源码：课程报名](http://bbs.html51.com/t-182-1-1/)
+
 [We重邮 - 微信小程序](https://github.com/mcc108/wecqupt)
 
 [【精】微信小程序-NAMI DEMO-赞赏(支付,登录)](https://github.com/wodenwang/nami-demo-pay) [详细教程：微信小程序《NAMI-赞赏》案例实战](https://zhuanlan.zhihu.com/p/25372448)
-
-[微信小程序-小商城前台](https://github.com/skyvow/m-mall) [微信小程序-小商城后台](https://github.com/skyvow/m-mall-admin)
 
 [ofo小程序-扫码/个人中心/钱包充值等](http://www.jianshu.com/p/68e3b8927a77)
 
@@ -53,6 +57,10 @@
 ## 附录：基础知识
 微信开放平台、公众平台、公众号、服务号、订阅号等
 [微信支付-商户平台官网](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2Findex.php)
+
+*原生前端实现参考*
+[An Airbnb Clone in React Native](https://github.com/VctrySam/AirBnb)
+[模仿 Airbnb 首页过渡动画](https://github.com/newyjp/JPAnimation)
 
 #### 开发/生产环境
 0 本地开发：可使用Win/Linux/Mac任一环境，由于小程序demo中大量使用js（npm），推荐在Win中配置[VM虚拟机](http://partnerweb.vmware.com/GOSIG/home.html)，以便支持Linux或Mac等多环境下进行开发。
