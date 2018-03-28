@@ -38,6 +38,11 @@
 [1378stars:微信小程序-移动端商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
 [微信小程序仿阿姨帮](https://github.com/Sukura7/WeChat_ayibang)
 [微信小程序实验源码：课程报名](http://bbs.html51.com/t-182-1-1/)
+[ReactNative App for booking Appointment](https://github.com/iZaL/my-appointment)
+[优雅整合SSM框架：SpringMVC + Spring + MyBatis（用户登陆式图书预约系统）](https://github.com/nize1989/ssm-BookAppointment)
+[基于微信的餐厅预约系统](https://github.com/zhongkouwei/Restaurant-Reservation)
+[Free, open-source, online appointments platform based on Laravel PHP Framework.](https://github.com/timegridio/timegrid)
+[Easy!Appointments - Open Source Appointment Scheduler ](https://github.com/alextselegidis/easyappointments)
 
 [We重邮 - 微信小程序](https://github.com/mcc108/wecqupt)
 
@@ -46,6 +51,7 @@
 [ofo小程序-扫码/个人中心/钱包充值等](http://www.jianshu.com/p/68e3b8927a77)
 
 [微信小程序 - 深大的树洞 2.0](https://github.com/jas0ncn/szushudong)
+
 
 ## 微信支付系列
 1 [【精】微信小程序：支付系列合集（开发指南+精品Demo）](http://www.wxapp-union.com/portal.php?mod=view&aid=2572)
