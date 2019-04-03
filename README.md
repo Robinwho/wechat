@@ -1,4 +1,4 @@
-# wechat
+# wechat 🔥 
 微信及小程序开发等。
 小程序基于微信，无缝衔接，利用了微信强大的API，将用户登录、状态保持、微信支付、数据统计等完美的进行了结合。
 
@@ -15,6 +15,8 @@
 [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
 
 ## 开发框架
+[WxJava - 微信开发 Java SDK（开发工具包）](https://github.com/Wechat-Group/WxJava/blob/master/README.md)
+
 [WePY 一个支持组件化的小程序开发框架](https://github.com/wepyjs/wepy)
 
 [WePY 腾讯云：打造小程序组件化开发框架](https://www.qcloud.com/community/article/214513)
